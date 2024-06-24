@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Visualize-Data-with-a-Bar-Chart/static/css/main.5f07b954.css",
+    "main.js": "/Visualize-Data-with-a-Bar-Chart/static/js/main.114749c4.js",
+    "static/js/453.3229ce51.chunk.js": "/Visualize-Data-with-a-Bar-Chart/static/js/453.3229ce51.chunk.js",
+    "index.html": "/Visualize-Data-with-a-Bar-Chart/index.html",
+    "main.5f07b954.css.map": "/Visualize-Data-with-a-Bar-Chart/static/css/main.5f07b954.css.map",
+    "main.114749c4.js.map": "/Visualize-Data-with-a-Bar-Chart/static/js/main.114749c4.js.map",
+    "453.3229ce51.chunk.js.map": "/Visualize-Data-with-a-Bar-Chart/static/js/453.3229ce51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f07b954.css",
+    "static/js/main.114749c4.js"
+  ]
+}
